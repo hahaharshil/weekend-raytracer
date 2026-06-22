@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/Users/hahaharshil/code/ray-tracing/build/cmake_install.cmake"
+		"/home/hahaharshil/code/weekend-raytracer/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
