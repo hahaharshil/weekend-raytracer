@@ -1,0 +1,39 @@
+# Build output directories (CMake out-of-source build, e.g. `cmake -B build`)
+build/
+out/
+cmake-build-*/
+
+# CMake generated files (in case of in-source configure/build)
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+CTestTestfile.cmake
+_deps/
+Makefile
+
+# Compiled binaries and object files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+inOneWeekend
+
+# Rendered image output 
+*.ppm
+*.png
+*.jpg
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

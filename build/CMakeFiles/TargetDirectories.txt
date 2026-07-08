@@ -1,3 +1,0 @@
-/home/hahaharshil/code/weekend-raytracer/build/CMakeFiles/inOneWeekend.dir
-/home/hahaharshil/code/weekend-raytracer/build/CMakeFiles/edit_cache.dir
-/home/hahaharshil/code/weekend-raytracer/build/CMakeFiles/rebuild_cache.dir
